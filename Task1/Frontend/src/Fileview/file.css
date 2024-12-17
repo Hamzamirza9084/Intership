@@ -1,0 +1,12 @@
+.view
+{
+    border: 2px solid whitesmoke;
+    background-color: black;
+    color: azure;
+    box-shadow:20px 16px 12px 0px;
+}
+
+a
+{
+    color: aqua;
+}
